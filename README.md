@@ -10,7 +10,7 @@
 <!-- Location and Email -->
 <p align="center">
   📍 Dhaka, Bangladesh &nbsp; | &nbsp;
-  📧 <a href="abrarkarimrupu1075@gmail.com">youremail@example.com</a> &nbsp; | &nbsp;
+  📧 <a href="abrarkarimrupu1075@gmail.com">abrarkarimrupu1075@gmail.com</a> &nbsp; | &nbsp;
   📞 +8801903192439
 </p>
 
