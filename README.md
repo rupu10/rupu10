@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" alt="Banner" width="100%" />
+  <img src="Dev_page-0001.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
