@@ -1,21 +1,88 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://your-banner-image-url.com" alt="Banner" width="100%" />
+</p>
 
+<!-- Name & Designation -->
+<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
+<h3 align="center">[Your Designation — e.g., Full Stack Developer]</h3>
 
-<p>Welcome to my page! </br> I'm Rupu, MERN stack developer from <img width="13" alt="image" src="https://github.com/user-attachments/assets/bd449c35-7698-4637-9ce4-72a364f56df3" />
- <b>Dhaka, Bangladesh</b>, currently living in <img width="13" alt="image" src="https://github.com/user-attachments/assets/4ae58181-dae5-41a9-a54f-671b434afe08" />
- <b>Dhaka, Bangladesh</b>. </p>
-<h3>Things I code with</h3>
+<!-- Location and Email -->
+<p align="center">
+  📍 [Your Location] &nbsp; | &nbsp;
+  📧 <a href="mailto:youremail@example.com">youremail@example.com</a> &nbsp; | &nbsp;
+  📞 +8801XXXXXXXXX
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🚀 I’m passionate about building web applications.
+- 🎯 Currently focusing on mastering full-stack development.
+- 🧠 I love solving real-world problems using code.
+- 🌱 Always learning new technologies and frameworks.
+
+---
+
+### 🔭 Current Activities
+
+- 🚀 Exploring **Next.js**
+- 🌐 Building a **tourism website**
+- 📘 Learning advanced **JavaScript and TypeScript**
+
+---
+
+### 💡 Skills
+
+<!-- You can use https://skillicons.dev to auto-generate these icons -->
+
+#### 🖥 Frontend
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" />
 </p>
 
-<h3>Where to find me</h3>
-<p><a href="https://github.com/rupu10" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/abrar-karim-rupu10/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+#### 🗄 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
+
+#### 🛠 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+### 🔗 Social Links
+
+<p>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<!-- GitHub Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
