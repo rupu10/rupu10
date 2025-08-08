@@ -4,14 +4,14 @@
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">Hi, I'm [Your Full Name] 👋</h1>
-<h3 align="center">[Your Designation — e.g., Full Stack Developer]</h3>
+<h1 align="center">Hi, I'm ABRAR KARIM RUPU 👋</h1>
+<h3 align="center">MERN stack Web Developer</h3>
 
 <!-- Location and Email -->
 <p align="center">
-  📍 [Your Location] &nbsp; | &nbsp;
-  📧 <a href="mailto:youremail@example.com">youremail@example.com</a> &nbsp; | &nbsp;
-  📞 +8801XXXXXXXXX
+  📍 Dhaka, Bangladesh &nbsp; | &nbsp;
+  📧 <a href="abrarkarimrupu1075@gmail.com">youremail@example.com</a> &nbsp; | &nbsp;
+  📞 +8801903192439
 </p>
 
 ---
@@ -27,15 +27,14 @@
 
 ### 🔭 Current Activities
 
-- 🚀 Exploring **Next.js**
-- 🌐 Building a **tourism website**
-- 📘 Learning advanced **JavaScript and TypeScript**
+- 🚀 Exploring Next.js
+- 🌐 Building a tourism website
+- 📘 Learning advanced JavaScript and TypeScript
 
 ---
 
 ### 💡 Skills
 
-<!-- You can use https://skillicons.dev to auto-generate these icons -->
 
 #### 🖥 Frontend
 <p>
@@ -57,13 +56,13 @@
 ### 🔗 Social Links
 
 <p>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/rupu10">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/abrar-karim-rupu10/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:abrarkarimrupu1075@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
