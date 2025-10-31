@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="Dev_page-0001.jpg" alt="Banner" width="100%" />
+  <img src="programming-code-coding-hacker-b.jpg" alt="Banner" width="100%" />
 </p>
 
 <!-- Name & Designation -->
